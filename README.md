@@ -1,7 +1,7 @@
   ## Hello there 👋
   
   
-  ## About Me 👩‍💼
+  ## About Me :smiley:
   
 - 👀 I'm interested in all things crypto and blockchain 
 - 🌱 I’m currently learning rust and scrypto
